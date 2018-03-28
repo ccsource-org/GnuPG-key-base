@@ -4,10 +4,10 @@ A place to store all public keys for GnuPG (GPG) related to CCSource.org's work
 Hi,
 
 
-Weclome to CCSource.org's GnuPG key base, by clicking the download link, you can download my GunPG (GPG) public key.
+Weclome to CCSource.org's GnuPG key base, by clicking the link below, you can download my GunPG (GPG) public key.
 
 
-Andrew@CCSource.org <andrew@ccsource.org> (C3E949EC): [Download public key](https://github.com/ccsourceorg/GnuPG-key-base/blob/master/Andrew%40CCSource.org%20(C3E949EC)%20%E2%80%93%20Public.asc)
+[`Andrew@CCSource.org <andrew@ccsource.org> (C3E949EC)`](https://github.com/ccsourceorg/GnuPG-key-base/blob/master/Andrew%40CCSource.org%20(C3E949EC)%20%E2%80%93%20Public.asc)
 
 
 You can use this key to encrypt and secure our messages.
