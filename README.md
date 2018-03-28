@@ -16,7 +16,7 @@ You can use this key to encrypt and secure our messages.
 To start using it, you'll need to install an OpenPGP software on your computer.  Below you'll find a list of possible solutions for your operating system:
 
 
-[macOS](https://gpgtools.tenderapp.com/kb/how-to/first-steps-where-do-i-start-where-do-i-begin-setup-gpgtools-create-a-new-key-your-first-encrypted-mail_
+[macOS](https://gpgtools.tenderapp.com/kb/how-to/first-steps-where-do-i-start-where-do-i-begin-setup-gpgtools-create-a-new-key-your-first-encrypted-mail)
 
 [Linux](https://ssd.eff.org/en/module/how-use-pgp-linux)
 
